@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAd/coding.gif"  />
+</div>
+
+###
+
 <h1 align="center">hey there 👋<br> I'm Kavindu Gayantha</h1>
 
 ###

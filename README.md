@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Kavindu Gayntha. I'm from Sri Lanka<br><br>- 📚 I'm currently learning Software Enginnering<br>- ⚡ In my free time I like coding</p>
+<p align="left">I'm Kavindu Gayntha. I'm from Sri Lanka<br><br>- 📚 Trainee Asociate Software Enginnering<br>- ⚡ In my free time I like coding</p>
 
 ###
 
